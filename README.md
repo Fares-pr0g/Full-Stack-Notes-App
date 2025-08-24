@@ -5,9 +5,10 @@
 
 # Fares' Thinkboard 📓
 
-## **🚀 Live Demo** [Click here to view the live app](https://fares-thinkboard.onrender.com)
+## **🚀 Live Demo** [Click here to view the live app](https://fares-thinkboard.onrender.com) 
+Btw it might take a minute or so to go live, since I'm using the brokie option on render🤭
 
-This is a full-stack notes project where I found the opportunity to learn backend with Node.js, Express.js, and MongoDB.
+### This is a full-stack notes project where I found the opportunity to learn backend with Node.js, Express.js, and MongoDB.
 
 ## 📖 Overview
 
